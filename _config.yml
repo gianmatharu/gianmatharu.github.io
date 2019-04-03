@@ -12,7 +12,7 @@
 
 theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -106,11 +106,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Gian Matharu"
+  avatar           : "/assets/images/saig_clear.png"
+  bio              : "PhD. Candidate"
+  location         : "Edmonton, AB"
+  email            : gian@ualberta.ca
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
