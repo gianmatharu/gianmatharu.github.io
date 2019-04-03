@@ -4,6 +4,10 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about/
+  - title: "CV"
+    url: /about/
+  - title: "Blog"
+    url: /blog/
   - title: "SAIG-FWI"
     url: /saig-fwi/
   - title: "Sitemap"

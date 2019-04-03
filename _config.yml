@@ -16,14 +16,15 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gian Matharu"
+title                    : "GSM"
 title_separator          : "-"
 name                     : "Gian Matharu"
 description              : "PhD. Candidate"
 url                      : "https://gianmatharu.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gianmatharu/gianmatharu.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+header:
+  teaser                   : "/assets/images/banner.jpg"
 logo                     : "/assets/images/saig_clear.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -64,7 +65,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -108,16 +109,16 @@ analytics:
 author:
   name             : "Gian Matharu"
   avatar           : "/assets/images/saig_clear.png"
-  bio              : "PhD. Candidate"
+  bio              : "PhD. Candidate in Geophysics"
   location         : "Edmonton, AB"
   email            : gian@ualberta.ca
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:gian@ualberta.ca
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://gianmatharu.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -126,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/gianmatharu"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
