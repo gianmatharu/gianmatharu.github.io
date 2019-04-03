@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about/
   - title: "CV"
@@ -10,5 +8,3 @@ main:
     url: /blog/
   - title: "SAIG-FWI"
     url: /saig-fwi/
-  - title: "Sitemap"
-    url: /sitemap/
