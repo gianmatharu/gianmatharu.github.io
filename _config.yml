@@ -19,12 +19,11 @@ locale                   : "en-US"
 title                    : "GSM"
 title_separator          : "-"
 name                     : "Gian Matharu"
-description              : "PhD. Candidate"
+description              : "PhD. Candidate @ Signal Analysis and Imaging Group (University of Alberta)"
 url                      : "https://gianmatharu.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gianmatharu/gianmatharu.github.io"
-header:
-  teaser                   : "/assets/images/banner.jpg"
+teaser                   : "/assets/images/saig_clear.png"
 logo                     : "/assets/images/saig_clear.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -119,7 +118,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://gianmatharu.github.io/"
-    - label: "Linkdin"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/gian-matharu-b1820072/"
     - label: "GitHub"
