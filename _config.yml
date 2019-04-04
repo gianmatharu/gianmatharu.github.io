@@ -113,46 +113,29 @@ author:
   location         : "Edmonton, AB"
   email            : gian@ualberta.ca
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:gian@ualberta.ca
+    #- label: "Email"
+      #icon: "fas fa-fw fa-envelope-square"
+      #url: mailto:gian@ualberta.ca
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://gianmatharu.github.io/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "Linkdin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/gian-matharu-b1820072/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gianmatharu"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=ODg-o1oAAAAJ&hl=en&authuser=1"
+
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/gianmatharu"
 
 
 # Reading Files
